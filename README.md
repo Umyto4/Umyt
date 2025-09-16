@@ -1,2 +1,2 @@
-# Umyt
-Privet
+umyt
+print "helloworld"
